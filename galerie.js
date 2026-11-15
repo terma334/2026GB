@@ -2,7 +2,7 @@
 // REISEINHALTE
 // ========================================
 
-tagesTrenner("Tag 1", "Newcastle -> Hartlepool -> Warkworth -> Seahouses");
+tagesTrenner("Tag 1", "Newcastle -> Hartlepool -> Warkworth -> Seahouses", "", "pictures/map.jpg");
 galerieErstellen("galerie1", "pictures/Tag1", 13, [
     "Hartlepool",
     "Hartlepool HMS Trincomalee",
@@ -19,7 +19,7 @@ galerieErstellen("galerie1", "pictures/Tag1", 13, [
     "Seahouses"
 ]);
 
-tagesTrenner("Tag 2", "Holy Island");
+tagesTrenner("Tag 2", "Holy Island", "", "pictures/map.jpg");
 galerieErstellen("galerie2a", "pictures/Tag2/a", 18, [
     "Lindisfarne Priory",
     "Lindisfarne Priory",
@@ -40,7 +40,7 @@ galerieErstellen("galerie2a", "pictures/Tag2/a", 18, [
     "Holy Island",
     "Holy Island Causeway"
 ]);
-tagesTrenner("Tag 2", "Bamburgh Castle");
+tagesTrenner("Tag 2", "Bamburgh Castle", "", "pictures/map.jpg");
 galerieErstellen("galerie2b", "pictures/Tag2/b", 9, [
     "Inner Farne",
     "Bamburgh Castle",
@@ -52,7 +52,7 @@ galerieErstellen("galerie2b", "pictures/Tag2/b", 9, [
     "Bamburgh Castle",
     "Bamburgh Castle",
 ]);
-tagesTrenner("Tag 2", "Farne Islands Boat Tour");
+tagesTrenner("Tag 2", "Farne Islands Boat Tour", "", "pictures/map.jpg");
 galerieErstellen("galerie2c", "pictures/Tag2/c", 18, [
     "Bamburgh Castle",
     "Inner Farne Lighthouse",
@@ -74,7 +74,7 @@ galerieErstellen("galerie2c", "pictures/Tag2/c", 18, [
     "Inner Farne Lighthouse"
 ]);
 
-tagesTrenner("Tag 3", "Seahouses -> Edinburgh, Military Tattoo");
+tagesTrenner("Tag 3", "Seahouses -> Edinburgh, Military Tattoo", "", "pictures/map.jpg");
 galerieErstellen("galerie3", "pictures/Tag3", 12, [
     "Edinburgh Castle from Royal Museum",
     "Edinburgh from Royal Museum",
@@ -90,7 +90,7 @@ galerieErstellen("galerie3", "pictures/Tag3", 12, [
     "Military Tattoo",
 ]);
 
-tagesTrenner("Tag 4", "Edinburgh");
+tagesTrenner("Tag 4", "Edinburgh", "", "pictures/map.jpg");
 galerieErstellen("galerie4", "pictures/Tag4", 6, [
     "Arthur’s Seat",
     "Edinburgh Castle",
